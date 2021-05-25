@@ -1,5 +1,5 @@
 # Programação Avançada Projeto
-## Trabalho Referente ao 3º da Disciplina de Programação Avançada
+
 
 ## Professor (a) ANTONIA VANESSA DIAS ARAUJO
 
