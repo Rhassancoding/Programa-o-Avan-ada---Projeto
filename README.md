@@ -1,6 +1,6 @@
-# Programação Avançada Projeto
+# Programação Avançada Projeto 
+### >>GAME QUIZ<<
 
+### Professor (a) ANTONIA VANESSA DIAS ARAUJO
 
-## Professor (a) ANTONIA VANESSA DIAS ARAUJO
-
- [ Acesse a nossa >>> WIKI](https://github.com/Rhassancoding/Programa-o-Avan-ada---Projeto/wiki)
+ [ Acesse a nossa WIKI](https://github.com/Rhassancoding/Programa-o-Avan-ada---Projeto/wiki)
