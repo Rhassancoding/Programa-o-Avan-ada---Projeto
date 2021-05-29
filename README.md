@@ -1,4 +1,4 @@
-# Programação Avançada Projeto 
+# Programação Avançada
 ### >>GAME QUIZ<<
 
 ### Professor (a) ANTONIA VANESSA DIAS ARAUJO
