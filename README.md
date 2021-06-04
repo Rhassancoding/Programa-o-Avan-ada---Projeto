@@ -2,7 +2,8 @@
 ## >>GAME QUIZ<<
 
 #### Professor(a) ANTONIA VANESSA DIAS ARAUJO
-_PARTICIPANTES_ : 
+
+# PARTICIPANTES
 
 [Rhassan Rodrigues](https://github.com/Rhassancoding) 
 
