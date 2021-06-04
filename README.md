@@ -1,7 +1,7 @@
 # Programação Avançada
 ## >>GAME QUIZ<<
 
-#### Professor(a) ANTONIA VANESSA DIAS ARAUJO
+#### Professor(a) [ANTONIA VANESSA DIAS ARAUJO](https://github.com/AntoniaVanessa) 
 
 # PARTICIPANTES
 
