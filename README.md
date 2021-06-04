@@ -9,7 +9,7 @@
 
 [Vitor Lucas](https://github.com/vlucasz) 
 
-[Gustavo Marcolina](https://github.com/marcolinaguga) 
+[Gustavo Antonio O. Marcolina](https://github.com/marcolinaguga) 
 
 [Gilberto Parreão](https://github.com/gilbertoparreao) 
 
