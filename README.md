@@ -1,9 +1,9 @@
 # Olá Navegador Seja Bem Vindo a esta Página!!!
 
+*Se Procuras por um Game para diversão de Horas Vagas com Temas como ```TI, Games e Filmes``` Acesse imediatamente a wiki ao final da Página
 #### Professor(a) [ANTONIA VANESSA DIAS ARAUJO](https://github.com/AntoniaVanessa) 
 
 # PARTICIPANTES
-
 [Rhassan Rodrigues](https://github.com/Rhassancoding) 
 
 [Vitor Lucas](https://github.com/vlucasz) 
