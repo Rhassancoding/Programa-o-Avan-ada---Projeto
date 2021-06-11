@@ -1,5 +1,4 @@
-# Programação Avançada
-## >>GAME QUIZ<<
+# Olá Navegador Seja Bem Vindo a esta Página!!!
 
 #### Professor(a) [ANTONIA VANESSA DIAS ARAUJO](https://github.com/AntoniaVanessa) 
 
