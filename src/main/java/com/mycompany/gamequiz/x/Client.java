@@ -19,13 +19,7 @@ public class Client implements  Jogador{
             genero =in.next();
     }
 
-    @Override
-    public void Points() {
-            System.out.println("\nEntre com a sua última pontuação:\n");
-            Scanner in = new Scanner(System.in);
-            String apelido;
-            apelido =in.next();
-    }
+    
 
     public static void main(String[] args) {
       int opcao;Scanner sc= new Scanner(System.in);
@@ -34,7 +28,7 @@ public class Client implements  Jogador{
         Client c =new Client();
          c.Apelido();
          c.Genero();
-         c.Points();
+       
          
          
         Temas t = new Temas();
@@ -96,11 +90,11 @@ public class Client implements  Jogador{
                              break;
                          case 2 :
                               Level l2 = new Level();
-                              l2.PerfuntasmedFilmes();
+                              l2.PerguntasmedGames();
                              break;
                          case 3:
                              Level l3 = new Level();
-                             l3.PerguntashardTI();
+                             l3.PerguntashardGames();
                              break;
                          default: System.out.println("\nOPa infelizmente não existe esta opcao!!!!!\n");                         
                      }  
