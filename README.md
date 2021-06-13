@@ -1,6 +1,6 @@
 # Olá Navegador Seja Bem Vindo a esta Página!!!
 
-*Se Procuras por um Quiz para sua diversão de Horas Vagas com Temas como ```TI, Games e Filmes``` Acesse imediatamente a wiki ao final da Página
+*Se Procuras por um Quiz para sua diversão de Horas Vagas com Temas como ```TI, Games e Filmes``` Acesse imediatamente a WIKI ao final desta Página.
 #### Professor(a) [ANTONIA VANESSA DIAS ARAUJO](https://github.com/AntoniaVanessa) 
 
 # PARTICIPANTES
