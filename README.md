@@ -1,6 +1,6 @@
-# Olá Navegador Seja Bem Vindo a esta Página!!!
+# FACIMP
 
-*Se Procuras por um Quiz para sua diversão de Horas Vagas com Temas como ```TI, Games e Filmes``` Acesse imediatamente a WIKI ao final desta Página.
+Disciplina: Programação Avançada
 #### Professor(a) [ANTONIA VANESSA DIAS ARAUJO](https://github.com/AntoniaVanessa)   
              
 # PARTICIPANTES       
